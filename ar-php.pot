@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Khaled Al Shmaa and Khaled Al Hourani
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ar-php\n"
+"POT-Creation-Date: 2009-03-04 02:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ar-php.php:39
+msgid ""
+"Ar PHP is only compatible with WordPress v2.6 and up. You are currently "
+"using WordPress v"
+msgstr ""
+
+#: ar-php.php:113
+msgid "Ar PHP Settings"
+msgstr ""
+
+#: ar-php.php:117
+msgid "Check the buttons you would like to show in your editor."
+msgstr ""
+
+#: ar-php.php:124
+msgid "Date"
+msgstr ""
+
+#: ar-php.php:129
+msgid "Hijri Date"
+msgstr ""
+
+#: ar-php.php:133
+msgid "Spell Numbers"
+msgstr ""
+
+#: ar-php.php:137
+msgid "Convert Layout"
+msgstr ""
+
+#: ar-php.php:141
+msgid "Transliterate"
+msgstr ""
+
+#: ar-php.php:148
+msgid "Save Changes"
+msgstr ""
+
+#: ar-php.php:172
+msgid "Settings Saved"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "ar-php"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://wordpress.org/extend/plugins/ar-php/"
+msgstr ""
+
+#. Description of an extension
+msgid "Adds Ar-PHP project functionality in TinyMCE editor."
+msgstr ""
+
+#. Author of an extension
+msgid "Khaled Al Shmaa and Khaled Al Hourani"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.ar-php.org/"
+msgstr ""

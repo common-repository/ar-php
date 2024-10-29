@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ar PHP\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ar-php\n"
+"POT-Creation-Date: 2009-03-04 02:12+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Khaled Al Hourani <koko.dw@gmail.com>\n"
+"Language-Team: Khaled Al Hourani <koko.dw@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Arabic\n"
+
+#: ar-php.php:39
+msgid "Ar PHP is only compatible with WordPress v2.6 and up. You are currently using WordPress v"
+msgstr "هذه الإضافة متوافقة فقط مع نسخة 2.6 فما فوق، لديك النسخة رقم"
+
+#: ar-php.php:113
+msgid "Ar PHP Settings"
+msgstr "إعدادات Ar PHP"
+
+#: ar-php.php:117
+msgid "Check the buttons you would like to show in your editor."
+msgstr "اختر الأزرار التي تريدها أن تظهر في المحرر"
+
+#: ar-php.php:124
+msgid "Date"
+msgstr "اليوم"
+
+#: ar-php.php:129
+msgid "Hijri Date"
+msgstr "اليوم الهجري"
+
+#: ar-php.php:133
+msgid "Spell Numbers"
+msgstr "كتابة الأرقام"
+
+#: ar-php.php:137
+msgid "Convert Layout"
+msgstr "تحويل الأحرف"
+
+#: ar-php.php:141
+msgid "Transliterate"
+msgstr "الترجمة"
+
+#: ar-php.php:148
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: ar-php.php:172
+msgid "Settings Saved"
+msgstr "تم حفظ التغييرات"
+
+#. Plugin Name of an extension
+msgid "ar-php"
+msgstr "ar-php"
+
+#. Plugin URI of an extension
+msgid "http://wordpress.org/extend/plugins/ar-php/"
+msgstr "http://wordpress.org/extend/plugins/ar-php/"
+
+#. Description of an extension
+msgid "Adds Ar-PHP project functionality in TinyMCE editor."
+msgstr "إضافة ميزات Ar PHP إلى محرر الووردبريس"
+
+#. Author of an extension
+msgid "Khaled Al Shmaa and Khaled Al Hourani"
+msgstr "خالد الشمعة وخالد الحوراني"
+
+#. Author URI of an extension
+msgid "http://www.ar-php.org/"
+msgstr "http://www.ar-php.org/"
+
